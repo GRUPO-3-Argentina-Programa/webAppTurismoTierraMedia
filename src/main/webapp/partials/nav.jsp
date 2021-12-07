@@ -12,7 +12,7 @@
 				</div>
 				<div class="container-fluid" id="nav2">
 					<div class="row">
-						<div class="col">Atracciones</div>
+						<a href= "/webAppTurismoTierraMedia/java/controller/index.do" class="col">Atracciones</a>
 						<div class="col">
 							<a href="login.jsp">Entrar</a>
 						</div>

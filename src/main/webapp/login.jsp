@@ -6,12 +6,16 @@
 	<jsp:include page="partials/encabezado.jsp"></jsp:include>
 </head>
 <body class="img js-fullheight"
-	style="background-image: url(../imagenes/bglogin.jpg);">
+	style="background-image: url(assets/imagenes/bglogin.jpg);">
+	
 	<section class="ftco-section">
-		<div class="container">
 		
+		<div class="container">
+			
 			<div class="row justify-content-center">
+				
 				<div class="col-md-6 col-lg-4">
+			
 					<div class="login-wrap p-0">
 						<h3 class="mb-4 text-center">Ingresa a la diversion</h3>
 						<form action="#" class="signin-form">
