@@ -17,21 +17,21 @@
 			<div class="carousel-inner">
 
 				<div class="carousel-item active">
-					<img src="../imagenes/paisaje centrada.png"
+					<img src="assets/imagenes/paisaje centrada.png"
 						class="d-block flex contenedor-imagen" alt="1°preferencia">
 				</div>
 				<div class="carousel-item contenedor-imagen">
-					<img src="src/main/imagenes/terror centrada.png"
+					<img src="assets/imagenes/terror centrada.png"
 						class="d-block flex contenedor-imagen" alt="2° preferencia">
 				</div>
 
 				<div class="carousel-item contenedor-imagen">
-					<img src="..\main\imagenes\aventura centrada.png"
+					<img src="assets/imagenes/aventura centrada.png"
 						class="d-block flex contenedor-imagen" alt="3 preferencia">
 				</div>
 
 				<div class="carousel-item contenedor-imagen">
-					<img src="..\imagenes\degustación centrada.png"
+					<img src="assets/imagenes/degustación centrada.png"
 						class="d-block contenedor-imagen" alt="4 preferencia">
 				</div>
 			</div>

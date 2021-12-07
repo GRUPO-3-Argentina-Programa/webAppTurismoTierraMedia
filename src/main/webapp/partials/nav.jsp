@@ -14,7 +14,7 @@
 					<div class="row">
 						<div class="col">Atracciones</div>
 						<div class="col">
-							<a href="Login.html">Entrar</a>
+							<a href="login.jsp">Entrar</a>
 						</div>
 						<div class="col">
 							<a href="itinerario.html">Mi itinerario</a>
