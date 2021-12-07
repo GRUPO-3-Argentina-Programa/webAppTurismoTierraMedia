@@ -16,7 +16,7 @@ public class ConnectionProvider {
 	static {
 		Properties properties = new Properties();
 		try {
-			properties.load(ConnectionProvider.class.getResourceAsStream("/env.properties"));
+			properties.load(ConnectionProvider.class.getResourceAsStream("src/main/resources/env.properties"));
 		} catch (IOException e) {
 			e.printStackTrace();
 		}

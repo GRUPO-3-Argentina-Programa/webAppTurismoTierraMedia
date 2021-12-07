@@ -17,21 +17,21 @@
 			<div class="carousel-inner">
 
 				<div class="carousel-item active">
-					<img src="../imagenes/paisaje centrada.png"
-						class="d-block flex contenedor-imagen" alt="1°preferencia">
+					<img src="assets/imagenes/paisaje centrada.png"
+						class="d-block flex contenedor-imagen" alt="1°preferencia" >
 				</div>
 				<div class="carousel-item contenedor-imagen">
-					<img src="src/main/imagenes/terror centrada.png"
+					<img src="assets/imagenes/terror centrada.png"
 						class="d-block flex contenedor-imagen" alt="2° preferencia">
 				</div>
 
 				<div class="carousel-item contenedor-imagen">
-					<img src="..\main\imagenes\aventura centrada.png"
+					<img src="assets\imagenes\aventura centrada.png"
 						class="d-block flex contenedor-imagen" alt="3 preferencia">
 				</div>
 
 				<div class="carousel-item contenedor-imagen">
-					<img src="..\imagenes\degustación centrada.png"
+					<img src="assets\imagenes\degustación centrada.png"
 						class="d-block contenedor-imagen" alt="4 preferencia">
 				</div>
 			</div>
@@ -73,11 +73,11 @@
 							data-bs-ride="carousel">
 							<div class="carousel-inner">
 								<div class="carousel-item active">
-									<img src="../imagenes/Bosque_Negro2.jpg"
+									<img src="assets/imagenes/Bosque_Negro2.jpg"
 										class="d-block contenedor-imagen2" alt="...">
 								</div>
 								<div class="carousel-item">
-									<img src="../imagenes/Mordor2.jpg"
+									<img src="assets/imagenes/Mordor2.jpg"
 										class="d-block contenedor-imagen2" alt="...">
 								</div>
 							</div>
@@ -105,11 +105,11 @@
 							data-bs-ride="carousel">
 							<div class="carousel-inner">
 								<div class="carousel-item active">
-									<img src="/TPTurismoTierraMedia/src/main/imagenes/Lothlorien.jpg"
+									<img src="assets/imagenes/Lothlorien.jpg"
 										class="d-block contenedor-imagen2" alt="...">
 								</div>
 								<div class="carousel-item">
-									<img src="../imagenes/La Comarca.jpg"
+									<img src="assets/imagenes/La Comarca.jpg"
 										class="d-block contenedor-imagen2" alt="...">
 								</div>
 							</div>
@@ -137,15 +137,15 @@
 							data-bs-ride="carousel">
 							<div class="carousel-inner">
 								<div class="carousel-item active">
-									<img src="../imagenes/Minas Tirith.jpeg"
+									<img src="assets/imagenes/Minas Tirith.jpeg"
 										class="d-block contenedor-imagen2" alt="...">
 								</div>
 								<div class="carousel-item">
-									<img src="../imagenes/Abismo_Helm2.jpg"
+									<img src="assets/imagenes/Abismo_Helm2.jpg"
 										class="d-block contenedor-imagen2" alt="...">
 								</div>
 								<div class="carousel-item">
-									<img src="../imagenes/Erebor.jpg"
+									<img src="assets/imagenes/Erebor.jpg"
 										class="d-block contenedor-imagen2" alt="...">
 								</div>
 							</div>
@@ -173,11 +173,11 @@
 							data-bs-ride="carousel">
 							<div class="carousel-inner">
 								<div class="carousel-item active">
-									<img src="../imagenes/Carreta Fantasma.jpeg"
+									<img src="assets/imagenes/Carreta Fantasma.jpeg"
 										class="d-block contenedor-imagen2" alt="...">
 								</div>
 								<div class="carousel-item">
-									<img src="../imagenes/Bosque Tenebroso.jpg"
+									<img src="assets/imagenes/Bosque Tenebroso.jpg"
 										class="d-block contenedor-imagen2" alt="...">
 								</div>
 							</div>
@@ -206,7 +206,7 @@
 				
 				<div class="col">
 					<div class="card h-100">
-						<img src="../imagenes/Moria2.jpg"
+						<img src="assets/imagenes/Moria2.jpg"
 							class="card-img-top contenedor-imagen2" alt="...">
 						<div class="card-body">
 							<h5 class="card-title">Moria</h5>
@@ -224,7 +224,7 @@
 				</div>
 				<div class="col">
 					<div class="card h-100">
-						<img src="../imagenes/La Comarca.jpg"
+						<img src="assets/imagenes/La Comarca.jpg"
 							class="card-img-top contenedor-imagen2" alt="...">
 						<div class="card-body">
 							<h5 class="card-title">La Comarca</h5>
@@ -242,7 +242,7 @@
 				</div>
 				<div class="col">
 					<div class="card h-100">
-						<img src="../imagenes/Lothlorien.jpg"
+						<img src="assets/imagenes/Lothlorien.jpg"
 							class="card-img-top contenedor-imagen2" alt="...">
 						<div class="card-body">
 							<h5 class="card-title">Lothlorien</h5>
@@ -260,7 +260,7 @@
 				</div>
 				<div class="col">
 					<div class="card h-100">
-						<img src="../imagenes/Erebor.jpg"
+						<img src="assets/imagenes/Erebor.jpg"
 							class="card-img-top contenedor-imagen2" alt="...">
 						<div class="card-body">
 							<h5 class="card-title">Erebor</h5>
@@ -278,7 +278,7 @@
 				</div>
 				<div class="col">
 					<div class="card h-100">
-						<img src="../imagenes/Minas_Tirith2.png"
+						<img src="assets/imagenes/Minas_Tirith2.png"
 							class="card-img-top contenedor-imagen2" alt="...">
 						<div class="card-body">
 							<h5 class="card-title">Minas Tirith</h5>
@@ -294,7 +294,7 @@
 				</div>
 				<div class="col">
 					<div class="card h-100">
-						<img src="../imagenes/Mordor2.jpg"
+						<img src="assets/imagenes/Mordor2.jpg"
 							class="card-img-top contenedor-imagen2" alt="...">
 						<div class="card-body">
 							<h5 class="card-title">Mordor</h5>
@@ -311,7 +311,7 @@
 				</div>
 				<div class="col">
 					<div class="card h-100">
-						<img src="../imagenes/Abismo_Helm2.jpg"
+						<img src="assets/imagenes/Abismo_Helm2.jpg"
 							class="card-img-top contenedor-imagen2" alt="...">
 						<div class="card-body">
 							<h5 class="card-title">Abismo de Helm</h5>
@@ -329,7 +329,7 @@
 				</div>
 				<div class="col">
 					<div class="card h-100">
-						<img src="../imagenes/Bosque Negro.jpeg"
+						<img src="assets/imagenes/Bosque Negro.jpeg"
 							class="card-img-top contenedor-imagen2" alt="...">
 						<div class="card-body">
 							<h5 class="card-title">Bosque Negro</h5>
@@ -347,7 +347,7 @@
 				</div>
 				<div class="col">
 					<div class="card h-100">
-						<img src="../imagenes/castillo-embrujado-.jpg"
+						<img src="assets/imagenes/castillo-embrujado-.jpg"
 							class="card-img-top contenedor-imagen2" alt="...">
 						<div class="card-body">
 							<h5 class="card-title">Castillo Embrujado</h5>
@@ -365,7 +365,7 @@
 				</div>
 				<div class="col">
 					<div class="card h-100">
-						<img src="../imagenes/Carreta fantasma.jpg"
+						<img src="assets/imagenes/Carreta fantasma.jpg"
 							class="card-img-top contenedor-imagen2" alt="...">
 						<div class="card-body">
 							<h5 class="card-title">Carreta Fantasma</h5>
@@ -383,7 +383,7 @@
 				</div>
 				<div class="col">
 					<div class="card h-100">
-						<img src="../imagenes/Bosque Tenebroso.jpg"
+						<img src="assets/imagenes/Bosque Tenebroso.jpg"
 							class="card-img-top contenedor-imagen2" alt="...">
 						<div class="card-body">
 							<h5 class="card-title">Bosque Tenebroso</h5>
@@ -462,7 +462,7 @@
 
 				<div class="modal-body">
 					<div class="container mb-3">
-						<img src="../imagenes/Mordor.jpg"
+						<img src="assets/imagenes/Mordor.jpg"
 							class="card-img-top contenedor-imagen2" alt="...">
 					</div>
 					<p>Descripción de la sugerencia</p>
@@ -492,7 +492,7 @@
 
 				<div class="modal-body">
 					<div class="container mb-3">
-						<img src="../imagenes/Lothlorien.jpg"
+						<img src="assets/imagenes/Lothlorien.jpg"
 							class="card-img-top contenedor-imagen2" alt="...">
 					</div>
 					<p>Descripción de la sugerencia</p>
